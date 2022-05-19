@@ -1,1 +1,1 @@
-# vue-mxgraph-example-master
+🧑‍🎄 Vue Mxgraph example
